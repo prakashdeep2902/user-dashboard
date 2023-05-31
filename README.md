@@ -1,5 +1,7 @@
 In component i have made 5 File the use of all 5 file is written below 
+0)Hosted Link
 
+Link:https://analyticdge.netlify.app/
 
 1)apis
 APIs
