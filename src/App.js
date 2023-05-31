@@ -1,10 +1,11 @@
 import React from 'react'
+import DataGrid from './component/DataGrid/DataGrid'
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+        <DataGrid></DataGrid>
+    </>
   )
 }
 

@@ -1,0 +1,30 @@
+thead {
+    background-color: #f2f2f2;
+  }
+  
+  thead th {
+    padding: 12px;
+    text-align: left;
+  }
+  
+  thead select {
+    margin-left: 8px;
+  }
+  
+  thead select option {
+    font-weight: normal;
+  }
+  
+  thead select option:first-child {
+    font-style: italic;
+    color: #999999;
+  }
+  
+  thead select option:nth-child(2) {
+    font-weight: bold;
+  }
+  
+  thead select option:nth-child(3) {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,24 @@
+.data-grid {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .data-grid th,
+  .data-grid td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .data-grid th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .data-grid tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .data-grid tbody tr:hover {
+    background-color: #e6e6e6;
+  }

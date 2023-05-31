@@ -1,0 +1,23 @@
+.pagination{
+
+
+    display: flex;
+
+    flex-wrap: wrap;
+ 
+    justify-content: center;
+    align-items: center;
+}  
+.pagination button{
+
+    margin: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    width: 4rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+ 
+}
